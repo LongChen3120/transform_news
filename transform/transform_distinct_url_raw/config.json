@@ -1,0 +1,87 @@
+[
+    {
+        "type": 1,
+        "website": "https://vnexpress.net/",
+        "url_crawl": "https://vnexpress.net/"
+    },
+    {
+        "type": 2,
+        "website": "https://tuoitre.vn/",
+        "url_crawl": "https://tuoitre.vn/"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/tin-moi-nhat.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/kinh-doanh.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/xa-hoi.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/the-gioi.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/giai-tri.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/bat-dong-san.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/the-thao.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/lao-dong-viec-lam.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/tam-long-nhan-ai.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/suc-khoe.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/o-to-xe-may.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/suc-manh-so.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/giao-duc.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/an-sinh.htm"
+    },
+    {
+        "type": 2,
+        "website": "https://dantri.com.vn/",
+        "url_crawl": "https://dantri.com.vn/phap-luat.htm"
+    }
+]

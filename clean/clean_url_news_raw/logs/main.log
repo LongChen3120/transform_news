@@ -1,0 +1,28 @@
+2024-08-03 00:25:28,068 - Main - INFO - __________________________________Run main
+2024-08-03 00:25:28,088 - Main - INFO - Connect database test_db
+2024-08-03 00:25:28,120 - Main - INFO - Connect collection test_col
+2024-08-03 00:25:28,129 - Main - INFO - Delete docs before 2024-08-01 00:25:28.125560 complete!
+2024-08-03 00:25:28,130 - airflow.task.operators.airflow.operators.python.PythonOperator - INFO - Done. Returned value was: None
+2024-08-03 00:25:28,137 - airflow.models.taskinstance - INFO - ::group::Post task execution logs
+2024-08-03 00:25:28,278 - airflow.models.taskinstance - INFO - Marking task as SUCCESS. dag_id=dag_clean_url_raw_news, task_id=run_main, run_id=manual__2024-08-02T17:25:21.983409+00:00, execution_date=20240802T172521, start_date=20240802T172525, end_date=20240802T172528
+2024-08-04 12:20:46,584 - Main - INFO - __________________________________Run main
+2024-08-04 12:20:46,624 - Main - INFO - Connect database test_db
+2024-08-04 12:20:46,626 - Main - INFO - Connect collection test_col
+2024-08-04 12:20:46,925 - Main - INFO - Delete docs before 2024-08-02 12:20:46.628231 complete!
+2024-08-04 12:20:46,926 - airflow.task.operators.airflow.operators.python.PythonOperator - INFO - Done. Returned value was: None
+2024-08-04 12:20:46,927 - airflow.models.taskinstance - INFO - ::group::Post task execution logs
+2024-08-04 12:20:46,943 - airflow.models.taskinstance - INFO - Marking task as SUCCESS. dag_id=dag_clean_url_raw_news, task_id=run_main, run_id=manual__2024-08-04T05:20:41.347371+00:00, execution_date=20240804T052041, start_date=20240804T052044, end_date=20240804T052046
+2024-08-04 12:29:29,657 - Main - INFO - __________________________________Run main
+2024-08-04 12:29:29,673 - Main - INFO - Connect database test_db
+2024-08-04 12:29:29,674 - Main - INFO - Connect collection test_col
+2024-08-04 12:29:29,679 - Main - INFO - Delete 0 docs before 2024-08-02 12:29:29.675627
+2024-08-04 12:29:29,680 - airflow.task.operators.airflow.operators.python.PythonOperator - INFO - Done. Returned value was: None
+2024-08-04 12:29:29,681 - airflow.models.taskinstance - INFO - ::group::Post task execution logs
+2024-08-04 12:29:29,694 - airflow.models.taskinstance - INFO - Marking task as SUCCESS. dag_id=dag_clean_url_raw_news, task_id=run_main, run_id=manual__2024-08-04T05:29:22.531415+00:00, execution_date=20240804T052922, start_date=20240804T052926, end_date=20240804T052929
+2024-08-11 23:45:07,031 - Main - INFO - __________________________________Run main
+2024-08-11 23:45:07,072 - Main - INFO - Connect database test_db
+2024-08-11 23:45:07,073 - Main - INFO - Connect collection test_col
+2024-08-11 23:45:07,239 - Main - INFO - Delete 0 docs before 2024-08-09 23:45:07.074954
+2024-08-11 23:45:07,240 - airflow.task.operators.airflow.operators.python.PythonOperator - INFO - Done. Returned value was: None
+2024-08-11 23:45:07,241 - airflow.models.taskinstance - INFO - ::group::Post task execution logs
+2024-08-11 23:45:07,255 - airflow.models.taskinstance - INFO - Marking task as SUCCESS. dag_id=dag_clean_url_raw_news, task_id=run_main, run_id=scheduled__2024-08-04T16:45:00+00:00, execution_date=20240804T164500, start_date=20240811T164504, end_date=20240811T164507
